@@ -1,0 +1,245 @@
+STEP translation to Solid Edge
+Date: Friday,May 28,2021 04:34PM
+Source File: C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Mechanism2.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: AMD Ryzen Threadripper 2990WX 32-Core Processor
+Operating System: Windows 10 Professional
+Installed Memory: 127.87 GB
+
+Software Information
+Parasolid Version: 32.1.222
+PSBodyShop Version: 32.1.94
+Step Adapter Version: 5.0.107
+Solid Edge Version: 221.00.00.114 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Mechanism2.asm
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Chess-Motor-Holder-REV-5.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R.asm
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART1.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART2.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART3.par
+Bodies: 0
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+Bodies: 0
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R_PART4.par
+|--+Total Parts: 19
+|--+Assemblies: 0
+|--+Solid Bodies: 19
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Stepper-Motor.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Stepper-Motor.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Pulley-20T.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\SlipRing.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Pulley-50T-GT2.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Double Pulley.asm
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\DoublePulley-50T-GT2.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802.asm
+|  |  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART1.par
+|  |  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART2.par
+|  |  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART3.par
+Bodies: 0
+|  |  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+Bodies: 0
+|  |  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802_PART4.par
+|  |--+Total Parts: 19
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 19
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\61802.asm
+|  |--+Total Parts: 0
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|--+Total Parts: 3
+|--+Assemblies: 1
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\SlipRing.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Arm-01-Rev2.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Pulley-20T.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Main-Shaft.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Secondary Shaft.par
+|--+Begin Assembly: 2
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Arm-Holder-REV1.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Arm-Holder-REV1.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Caster.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Spacer.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Caster.par
+|--+Begin Assembly: 2
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\W 61802 R.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Arm-03-R5.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Tensioner.asm
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\7804K136_STAINLESS STEEL BALL BEARING.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\7804K136_STAINLESS STEEL BALL BEARING.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\TensionHolder-REV1.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\91239A230_M5x12_Round.par
+|--+Total Parts: 52
+|--+Assemblies: 0
+|--+Solid Bodies: 52
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\MDF Holder.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Spacer.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Spacer.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Bearing-Holder .par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Spacer.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\MagnetHolder.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Sensor Custom PCB.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Bearing-Holder-Main.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\MagnetSensorHolderPirmary.par
+|--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Sensor Custom PCB.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\MagnetHolderPrimaryArm.par
+|--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\MagnetHolderInsert.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Bottom-Base.asm
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\BottomSide-2.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\AngleSide-9mm.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\AngleSide-9mm.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\AngleSide-9mm.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\AngleSide-9mm.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\VertSide-56mm.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\VertSide-56mm.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\VertSide-56mm.par
+|  |--+Reusing File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\VertSide-56mm.par
+|  |--+Created SE Part File C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Base Holder Rev1.par
+|--+Total Parts: 14
+|--+Assemblies: 0
+|--+Solid Bodies: 14
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 53
++Assemblies: 4
++Solid Bodies: 49
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 08

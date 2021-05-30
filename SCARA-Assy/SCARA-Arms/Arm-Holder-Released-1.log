@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: Friday,May 28,2021 05:41PM
+Output File: C:\DATA\WORK\MATTER\Chess\Modelos Técnicos\REV1 Proto\SCARA\STEP\Arm-Holder-Released-1.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: AMD Ryzen Threadripper 2990WX 32-Core Processor
+Operating System: Windows 10 Professional
+Installed Memory: 127.87 GB
+
+Software Information
+Parasolid Version: 32.1.222
+PSBodyShop Version: 32.1.94
+Step Adapter Version: 5.0.107
+Solid Edge Version: 221.00.00.114 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 00
